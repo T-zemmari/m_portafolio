@@ -1,0 +1,27 @@
+.contenedor-proyectos {
+    margin-top: 20px;
+    width: 100%;
+    padding: 50px;
+    min-height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.p-proyects{
+    color: rgb(27, 3, 27);
+}
+
+@media (max-width:760px) {
+    .contenedor-proyectos {
+        width: 100%;
+        padding: 50px;
+        min-height: 400px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-direction: column;
+    }
+    .card-version-movil-column{
+margin: 10px;
+    }
+}

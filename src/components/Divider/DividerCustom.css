@@ -1,0 +1,7 @@
+.divider-custom {
+    position: relative;
+    background: linear-gradient(to right, #f74022, #f76f58, #6ba7ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 25px;
+}
