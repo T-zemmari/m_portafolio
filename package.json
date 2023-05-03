@@ -1,5 +1,5 @@
 {
-  "homepage": "https://T-zemmari.github.io/",
+  "homepage": "https://T-zemmari.github.io/m_portafolio",
   "name": "m_portafolio",
   "version": "0.1.0",
   "private": true,
@@ -26,13 +26,13 @@
     "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+  "scripts": {  
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
