@@ -45,7 +45,7 @@ export default function RecipeReviewCard() {
                         </Avatar>
                     }
                     action={
-                        <Link href="#" underline="none">
+                        <Link href="https://github.com/T-zemmari/TEcMOVIL-Frontend" underline="none">
 
                         </Link>
                     }
@@ -60,8 +60,12 @@ export default function RecipeReviewCard() {
                 />
                 <CardContent>
                     <Typography variant="body2" color="text.secondary">
-                        TEcMOVIL Es Una Aplicacion Web Tipo E-commerce, el usuario puede navegar por las distintas vistas, elegir un producto, comprar, o pedir un presuspuesto para su dispositivo averiado,esta hecha con React-redux,Nodejs Express MongoDB. <br />
-                    </Typography>
+                        <a href="https://github.com/T-zemmari/TEcMOVIL-Frontend" target='_blank' style={{ 'text-decoration': 'none' }}>
+                            TEcMOVIL es una aplicación web de tipo e-commerce que ofrece una experiencia
+                            de usuario optimizada para la navegación y compra de productos,
+                            así como la solicitud de presupuestos para dispositivos averiados.
+                            Esta solución está desarrollada utilizando tecnologías de vanguardia como React-Redux, Node.js, Express y MongoDB.
+                        </a>                    </Typography>
                 </CardContent>
 
             </Card>
@@ -74,7 +78,7 @@ export default function RecipeReviewCard() {
                         </Avatar>
                     }
                     action={
-                        <Link href="#" underline="none">
+                        <Link href="" underline="none">
 
                         </Link>
                     }
@@ -89,8 +93,9 @@ export default function RecipeReviewCard() {
                 />
                 <CardContent>
                     <Typography variant="body2" color="text.secondary">
-                        Nuestra aplicación es un sitio web donde un usuario puede registrarse y obtener una cuenta, con la que puede acceder a la opción de elegir un dentista y concertar una cita. Hemos utilizado REACT para desarrollar la aplicación.
-                        Esta hecha con React redux Nodejs Express y MySQL.
+                        <a href="https://github.com/T-zemmari/reactdent-f" target='_blank' style={{ 'text-decoration': 'none' }}>
+                            Nuestra aplicación web ofrece a los usuarios la posibilidad de registrarse y crear una cuenta personal para acceder a una variedad de opciones, incluyendo la selección y reserva de citas con dentistas de confianza. Hemos desarrollado esta solución utilizando las últimas tecnologías, incluyendo React, Redux, Node.js, Express y MySQL.
+                        </a>
                     </Typography>
                 </CardContent>
 
@@ -119,7 +124,14 @@ export default function RecipeReviewCard() {
                 />
                 <CardContent>
                     <Typography variant="body2" color="text.secondary">
-                        <span className="p-proyects"> NET FILM , es una simulacion de una plataforma de streaming, en la que hay que suscribirse , navegar por las distintas vistas para poder ver tanto peliculas como  series, esta hecha con React Redux Nodejs MongoDB y Express. <br /> <br />
+
+                        <span className="p-proyects">
+                            <a href="https://github.com/T-zemmari/Rentail-Movie" target='_blank' style={{ 'text-decoration': 'none' }}>
+                                NET FILM es una simulación de una plataforma de streaming, que requiere que los usuarios se suscriban
+                                y naveguen por diversas opciones para acceder a películas y series de televisión.
+                                Hemos desarrollado esta solución utilizando tecnologías líderes en la industria, como React,
+                                Redux, Node.js, MongoDB y Express. <br /> <br />
+                            </a>
                         </span>
                     </Typography>
                 </CardContent>

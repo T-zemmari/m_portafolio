@@ -12,11 +12,11 @@ const About = () => {
       <div className="contenedor-sobre-mi">
         <div className="about-desc" data-aos="fade-left">
         <br />
-          <h3>Bienvenidos a mi portfolio personal </h3>
+          <h3 style={{ 'color': '#0563bb' }}>Bienvenidos a mi portfolio personal </h3>
           <br />
           <p>
             <span>
-              Soy <strong>Tarek Zemmari</strong>, un apasionado <strong>Full Stack Developer</strong> con una amplia experiencia en desarrollo y maquetación de aplicaciones web.
+              Soy <strong style={{ 'color': '#0563bb' }}>Tarek Zemmari</strong>, un apasionado <strong style={{ 'color': '#0563bb' }}> Full Stack Developer</strong> con una amplia experiencia en desarrollo y maquetación de aplicaciones web.
               <br />
                Conocido por mi enfoque en la búsqueda de soluciones innovadoras y mi capacidad para entregar proyectos de alta calidad en tiempo y forma.
             </span>
