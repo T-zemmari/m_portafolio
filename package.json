@@ -1,7 +1,7 @@
 {
-  "name": "mi-portafolio",
+  "homepage": "https://T-zemmari.github.io/",
+  "name": "m_portafolio",
   "version": "0.1.0",
-  "homepage": "https://T-zemmari.github.io/T-zemmari.github.io",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
