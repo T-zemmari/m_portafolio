@@ -11,15 +11,24 @@ const About = () => {
     <div className="about-container" id="about">
       <div className="contenedor-sobre-mi">
         <div className="about-desc" data-aos="fade-left">
+        <br />
           <h3>Bienvenidos a mi portfolio personal </h3>
+          <br />
           <p>
             <span>
-              Soy Tarek Zemmari, un apasionado Full Stack Developer  con una amplia experiencia en desarrollo y maquetación de aplicaciones web. Conocido por mi enfoque en la búsqueda de soluciones innovadoras y mi capacidad para entregar proyectos de alta calidad en tiempo y forma.
+              Soy <strong>Tarek Zemmari</strong>, un apasionado <strong>Full Stack Developer</strong> con una amplia experiencia en desarrollo y maquetación de aplicaciones web.
+              <br />
+               Conocido por mi enfoque en la búsqueda de soluciones innovadoras y mi capacidad para entregar proyectos de alta calidad en tiempo y forma.
             </span>
             <br />
-            Mi pasión por la programación surgió desde muy joven, por lo que estudié Informática en el bachillerato. Continué mi formación y realicé un bootcamp que completé con éxito, lo que me permitió dedicarme profesionalmente al desarrollo web. Desde entonces, he trabajado con clientes de distintas industrias, entregando soluciones de alta calidad y adaptadas a sus necesidades.
+            <br />
+            Mi pasión por la programación surgió desde muy joven, por lo que estudié Informática en el bachillerato.<br /> Continué mi formación y realicé un bootcamp que completé con éxito, lo que me permitió dedicarme profesionalmente al desarrollo web. 
+            <br />
+            Desde entonces, he trabajado con clientes de distintas industrias, entregando soluciones de alta calidad y adaptadas a sus necesidades.
+            <br />
             <br />
             Soy experto en el desarrollo web con PHP, tanto puro como con su framework Symfony 5.4. Además, tengo experiencia en la creación de sitios web utilizando HTML y jQuery, y también he trabajado con React en algunos proyectos.
+            <br />
             <br />
             Si estás buscando un desarrollador web apasionado y comprometido para tu próximo proyecto, ¡no dudes en contactarme! Me encantaría discutir cómo puedo ayudarte a alcanzar tus objetivos.
           </p>

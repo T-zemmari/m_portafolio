@@ -10,8 +10,7 @@ const Experiencia = () => {
   return (
     <div className="experiencia-container" id="Experience">
       <div className="experiencia-datos">
-        <div className="separador"></div>
-
+      <br /><br />
         <div className="experiencia-laboral" data-aos="fade-left">
           <h4>Full stack developer ( Perfumerias.com (Tedy business) )</h4>
           <h5>ENERO 2021 - Actualmente</h5>
