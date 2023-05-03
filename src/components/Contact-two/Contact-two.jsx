@@ -142,7 +142,7 @@ export default function ContactTwo() {
                       </div>
                       <div className="text">
                         <p>
-                          <span>Direccíon:</span> Calle tirant lo blanch 21
+                          <span>Direccíon:</span> Calle tirant lo blanch 
                           46013 Valencia España
                         </p>
                       </div>
@@ -169,7 +169,7 @@ export default function ContactTwo() {
                       <div className="text">
                         <p>
                           <span>Email:</span>{" "}
-                          <a href="tarek.zemmari@gmail.com" style={{textDecoration:'none'}}>
+                          <a href="mailto:tarek.zemmari@gmail.com" style={{textDecoration:'none'}}>
                             tarek.zemmari@gmail.com
                           </a>
                         </p>
