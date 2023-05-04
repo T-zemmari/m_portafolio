@@ -17,7 +17,6 @@ export default function App() {
           <Route path="/" exact component={HomePage} />
         </Switch>
       </Router>
-
     </div>
   );
 }
