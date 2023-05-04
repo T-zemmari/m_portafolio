@@ -1,8 +1,8 @@
 {
-  "homepage": "https://T-zemmari.github.io/m_portafolio/",
+  "homepage": "https://T-zemmari.github.io/",
   "name": "m_portafolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@craco/craco": "^5.9.0",
     "@emailjs/browser": "^3.7.0",
