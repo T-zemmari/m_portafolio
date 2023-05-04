@@ -5,19 +5,19 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'animate.css';
 import AOS from "aos";
 
-  
+
 export default function App() {
   useEffect(() => {
     AOS.init({ duration: 1500 });
   }, []);
   return (
     <div className="app ">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route path="/" exact component={HomePage} />
         </Switch>
       </Router>
-    
+
     </div>
   );
 }
