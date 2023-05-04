@@ -8,7 +8,7 @@ const About = () => {
     AOS.init({ duration: 1500 });
   }, []);
   return (
-    <div className="about-container" id="about">
+    <div className="about-container" id="about" style={{'margin-top':'20px'}}>
       <div className="contenedor-sobre-mi">
         <div className="about-desc" data-aos="fade-left">
         <br />
