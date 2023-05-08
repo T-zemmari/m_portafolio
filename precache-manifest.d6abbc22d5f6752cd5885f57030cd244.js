@@ -72,16 +72,16 @@ self.__precacheManifest = [
     "url": "/m_portafolio/static/media/boxicons.aab73283.woff2"
   },
   {
-    "revision": "3a0cb82447f8e9ce865a709a92f0c752",
-    "url": "/m_portafolio/static/media/boxicons.3a0cb824.woff"
+    "revision": "4002d1c83d8dd40df85708c5601993e4",
+    "url": "/m_portafolio/static/media/boxicons.4002d1c8.eot"
   },
   {
     "revision": "878061312a371566f591f1f1a9f76a87",
     "url": "/m_portafolio/static/media/boxicons.87806131.ttf"
   },
   {
-    "revision": "4002d1c83d8dd40df85708c5601993e4",
-    "url": "/m_portafolio/static/media/boxicons.4002d1c8.eot"
+    "revision": "3a0cb82447f8e9ce865a709a92f0c752",
+    "url": "/m_portafolio/static/media/boxicons.3a0cb824.woff"
   },
   {
     "revision": "0da09c31aacfc19b901ae6779e23aeb9",
