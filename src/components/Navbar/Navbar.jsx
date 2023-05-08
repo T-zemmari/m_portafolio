@@ -2,6 +2,7 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+import BtnDownloadPdf from '../ButtonDownloadPdf/BtnDownloadPdf';
 
 function CollapsibleExample() {
   let background="linear-gradient(90deg, rgba(0, 138, 241, 1) 0%, rgba(70, 70, 70, 1) 84%, rgba(0, 95, 255, 1) 100%)"
@@ -17,6 +18,7 @@ function CollapsibleExample() {
             <Nav.Link href="#portfolio"style={{color:'white',fontWeight:'600'}}>Proyectos</Nav.Link>      
           </Nav>
           <Nav>
+            <BtnDownloadPdf/>          
             <Nav.Link href="#contact"style={{color:'white',fontWeight:'600'}}>Contacto</Nav.Link>          
           </Nav>
         </Navbar.Collapse>
